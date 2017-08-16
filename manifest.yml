@@ -1,6 +1,0 @@
----
-applications:
-- name: linh-map
-  memory: 1GB
-  instances: 1
-  random-route: true
